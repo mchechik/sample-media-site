@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>quickstart on Your Image Gallery</title>
+    <link>https://mchechik.github.io/sample-media-site/series/quickstart/</link>
+    <description>Recent content in quickstart on Your Image Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jul 2020 02:04:06 -0500</lastBuildDate><atom:link href="https://mchechik.github.io/sample-media-site/series/quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latest video</title>
+      <link>https://mchechik.github.io/sample-media-site/blog/configuration/</link>
+      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
+      
+      <guid>https://mchechik.github.io/sample-media-site/blog/configuration/</guid>
+      <description>Here&amp;rsquo;s a sample video blog post.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
